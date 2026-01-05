@@ -1,0 +1,22 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Byte-compiled / C extensions
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs y DBs
+*.log
+.env
+*.db
+
+# VS Code
+.vscode/settings.json
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
